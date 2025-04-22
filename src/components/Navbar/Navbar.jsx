@@ -1,6 +1,6 @@
 import React from 'react'
 import './Navbar.css'
-import NetflixLogo from "../../assets/NetflixLogo.jsx";
+import NetflixLogo from "../../assets/NetflixLogo";
 import SearchIcon from "../../assets/search-icon";
 import Bellicon from "../../assets/notificatoin";
 import Netflixavatar from "../../assets/Netflix-avatar"
